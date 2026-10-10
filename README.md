@@ -1,369 +1,234 @@
+ <!-- BREL MASSIMA // CYBERPUNK README -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=BREL%20MASSIMA&fontSize=68&fontColor=F4EDE4&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20CYBERSECURITY%20ENGINEER&descAlignY=59&descSize=18&descColor=D7B4FF&animation=fadeIn&color=0:08070D,25:171022,55:35204D,78:6E4055,100:D99A58" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=BREL%20MASSIMA&fontSize=72&fontColor=00F0FF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%2F%2F%20CYBERSECURITY%20ENGINEER&descSize=17&descAlignY=60&descColor=FF00E5&animation=fadeIn&color=0:02030A,25:080D2B,55:24104B,80:6A0878,100:00A6C7" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1600&pause=500&color=00F0FF&center=true&vCenter=true&width=850&lines=%3E+INITIALIZING+BREL.OS...;%3E+LOADING+CYBERSECURITY+MODULES...;%3E+CONNECTING+TO+SOC+LAB...;%3E+THEHIVE+%7C+CORTEX+%7C+YARA+%7C+CAPE;%3E+SYSTEM+ONLINE.+WELCOME%2C+OPERATOR." />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=700&color=D7B4FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%24+initializing+brel.massima...;%24+loading+cybersecurity+modules...;%24+TheHive+%7C+Cortex+%7C+YARA+%7C+CAPE;%24+building+systems+that+work.+and+survive." />
+<br/>
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=Brel7&style=for-the-badge&color=00F0FF&label=INTRUSIONS%20%2F%2F%20PROFILE%20VISITS" />
+<img src="https://img.shields.io/github/followers/Brel7?style=for-the-badge&logo=github&label=ALLIES&color=8A2BE2&labelColor=050510" />
+<img src="https://img.shields.io/badge/STATUS-SEARCHING%20FOR%20PFE-39FF14?style=for-the-badge&labelColor=050510" />
 
-<img src="https://komarev.com/ghpvc/?username=Brel7&label=VISITORS&color=8B5FBF&style=for-the-badge&labelColor=0D0B13"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Brel7?label=FOLLOWERS&style=for-the-badge&color=8B5FBF&labelColor=0D0B13"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OPEN%20TO-PFE%20%7C%20CYBERSECURITY-D99A58?style=for-the-badge&labelColor=0D0B13"/>
+<br/><br/>
+
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%" alt="Cyberpunk animated digital world"/>
 
 </div>
 
 ---
 
-# `01` — WHO AM I ?
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=600&color=39FF14&center=true&vCenter=true&width=750&lines=root%40brel%3A~%23+whoami;BREL+MASSIMA+%7C+SOFTWARE+%2B+SECURITY;root%40brel%3A~%23+mission_status;BUILDING+%2F+ANALYZING+%2F+SECURING;root%40brel%3A~%23+sudo+access_granted" />
+
+</div>
 
 ```text
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   ██████╗ ██████╗ ███████╗██╗                                       │
-│   ██╔══██╗██╔══██╗██╔════╝██║                                       │
-│   ██████╔╝██████╔╝█████╗  ██║                                       │
-│   ██╔══██╗██╔══██╗██╔══╝  ██║                                       │
-│   ██████╔╝██║  ██║███████╗███████╗                                 │
-│   ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝                                 │
-│                                                                      │
-│   SYSTEM STATUS                                                     │
-│   ────────────────────────────────────────────────────────────────   │
-│   ● SOFTWARE ENGINEERING        [ ONLINE ]                           │
-│   ● CYBERSECURITY               [ ACTIVE ]                           │
-│   ● SOC LAB                     [ RUNNING ]                          │
-│   ● LEARNING MODE               [ ALWAYS ON ]                        │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║  OPERATOR: BREL MASSIMA                                         ║
+║  CLASS:    FULL-STACK DEVELOPER / CYBERSECURITY ENGINEER         ║
+║  MODE:     BUILD > ANALYZE > DETECT > SECURE                     ║
+║  MISSION:  FIND A 5-MONTH PFE INTERNSHIP IN CYBERSECURITY       ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-I'm **Brel MASSIMA**, a **Full-Stack Developer** and **Cybersecurity Engineer** passionate about building software, understanding how systems break, and learning how to make them stronger.
-
-My work lives somewhere between:
-
-**`CODE` → `SYSTEMS` → `NETWORKS` → `SECURITY`**
-
-I build web, mobile and backend applications while developing practical cybersecurity skills through labs, automation, detection engineering and security tooling.
-
-Currently looking for a **5-month PFE internship in Cybersecurity**.
-
 <div align="center">
 
-### `I don't just want to build software.`
+### `I BUILD THE SYSTEMS. I STUDY THE THREATS. I SECURE THE CODE.`
 
-### `I want to understand what happens when someone tries to break it.`
+<img src="https://img.shields.io/badge/WEB-ONLINE-00F0FF?style=flat-square&labelColor=050510"/>
+<img src="https://img.shields.io/badge/BACKEND-ONLINE-8A2BE2?style=flat-square&labelColor=050510"/>
+<img src="https://img.shields.io/badge/SECURITY-ACTIVE-39FF14?style=flat-square&labelColor=050510"/>
+<img src="https://img.shields.io/badge/SOC-LAB-FF00E5?style=flat-square&labelColor=050510"/>
 
 </div>
 
----
-
-# `02` — CURRENT MISSION
+## `> SYSTEM_INTERFACE.exe`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=900&color=D99A58&center=true&vCenter=true&width=850&lines=%5BSOC%5D+incoming+sample...;%5BCORTEX%5D+analyzers+queued...;%5BCAPE%5D+sandbox+initialized...;%5BYARA%5D+rules+loaded...;%5BTHEHIVE%5D+case+created...;%5BSYSTEM%5D+threat+contained." />
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="48%" alt="Animated cyber terminal"/>
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="48%" alt="Animated digital code"/>
 
 </div>
+
+I'm Brel MASSIMA — a developer exploring the intersection of software engineering and cybersecurity.
+
+I build applications, work with backend systems, explore infrastructure, and develop hands-on security labs. I am particularly interested in threat analysis, detection, incident response, and the engineering behind secure systems.
 
 ```bash
-┌──(brel@soc-lab)-[~/operations]
-└─$ ./analyze_threat.sh sample_0912.exe
+$ cat /etc/brel/mission.conf
 
-[+] Initializing isolated environment...
-[+] Cortex analyzers .................... ONLINE
-[+] CAPE sandbox ......................... ONLINE
-[+] YARA rules ........................... LOADED
-[+] TheHive case management .............. ONLINE
-
-[*] Submitting sample...
-[*] Dynamic analysis started...
-
-[!] YARA MATCH
-    └── Stealer.Generic
-    └── Severity: HIGH
-
-[!] NETWORK BEHAVIOR
-    └── Outbound connection detected
-    └── Destination: 203.0.113.42:443
-    └── Action: BLOCKED
-
-[+] Observable extraction complete
-[+] Case opened in TheHive
-[+] Investigation ready
-
-STATUS: ████████████████████ 100%
+IDENTITY="Brel MASSIMA"
+PRIMARY="Full-Stack Development"
+SPECIALIZATION="Cybersecurity"
+ENVIRONMENT="Linux / Docker / Networks"
+SOC_STACK="TheHive + Cortex + YARA + CAPE"
+MISSION="PFE Internship — Cybersecurity"
 ```
 
-My cybersecurity lab revolves around technologies such as:
-
-**TheHive · Cortex · YARA · CAPE · Elasticsearch · Linux · Docker**
-
-The objective is simple:
-
-> **Observe → Detect → Investigate → Contain → Learn**
-
 ---
-
-# `03` — WHAT I BUILD
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&text=%5B%20LIVE%20SOC%20SIMULATION%20%5D&fontSize=24&fontColor=00F0FF&color=0:050510,50:151044,100:4B0878&animation=fadeIn" width="100%"/>
 
-### 🌐 SOFTWARE
-
-Web applications<br>
-REST APIs<br>
-Backend services<br>
-Database systems<br>
-Authentication
-
-</td>
-
-<td align="center" width="33%">
-
-### 🛡️ SECURITY
-
-SOC laboratories<br>
-Malware analysis<br>
-Detection engineering<br>
-Network security<br>
-Incident response
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚙️ INFRASTRUCTURE
-
-Linux<br>
-Docker<br>
-CI/CD<br>
-Cloud<br>
-Virtualization<br>
-Automation
-
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1300&pause=400&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=160&lines=%5BSOC%5D+Initializing+isolated+analysis+environment...;%5BCAPE%5D+Sample+submitted+to+sandbox...;%5BYARA%5D+Scanning+file+signatures...;%5BCORTEX%5D+Running+analysis+responders...;%5BTHEHIVE%5D+Creating+incident+case...;%5BSYSTEM%5D+Analysis+pipeline+ready." />
 
 </div>
-
----
-
-# `04` — TECH STACK
-
-<div align="center">
-
-### `LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,cs,c,php&perline=8&theme=dark"/>
-
-### `FRONTEND`
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,tailwind,bootstrap,vite&perline=9&theme=dark"/>
-
-### `BACKEND`
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,spring,laravel,dotnet,graphql&perline=8&theme=dark"/>
-
-### `MOBILE`
-
-<img src="https://skillicons.dev/icons?i=flutter&perline=4&theme=dark"/>
-
-### `DATABASES & DATA`
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,firebase,elasticsearch&perline=7&theme=dark"/>
-
-### `DEVOPS & CLOUD`
-
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,jenkins,aws,azure,gcp&perline=9&theme=dark"/>
-
-### `SECURITY / TOOLS`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&perline=6&theme=dark"/>
-
-</div>
-
----
-
-# `05` — SECURITY LAB
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=SOC%20LAB%20%2F%20THREAT%20ANALYSIS&fontSize=25&fontColor=F4EDE4&color=0:171022,50:35204D,100:6E4055&animation=fadeIn" width="90%"/>
-
-<br><br>
-
-<table>
-<tr>
-<td align="center">
-
-🧠<br>
-<b>THEHIVE</b><br>
-<sub>Case Management</sub>
-
-</td>
-
-<td align="center">
-
-⚡<br>
-<b>CORTEX</b><br>
-<sub>Observable Analysis</sub>
-
-</td>
-
-<td align="center">
-
-🔬<br>
-<b>CAPE</b><br>
-<sub>Sandbox Analysis</sub>
-
-</td>
-
-<td align="center">
-
-🧬<br>
-<b>YARA</b><br>
-<sub>Detection Rules</sub>
-
-</td>
-
-<td align="center">
-
-📊<br>
-<b>ELASTIC</b><br>
-<sub>Security Data</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-### `THREAT FLOW`
 
 ```text
-             ┌──────────────┐
-             │    SAMPLE    │
-             └──────┬───────┘
-                    │
-                    ▼
-             ┌──────────────┐
-             │     CAPE     │
-             │   SANDBOX    │
-             └──────┬───────┘
-                    │
-          ┌─────────┴─────────┐
-          ▼                   ▼
-     ┌─────────┐         ┌─────────┐
-     │  YARA   │         │ CORTEX  │
-     │ DETECT  │         │ ANALYZE │
-     └────┬────┘         └────┬────┘
-          │                   │
-          └─────────┬─────────┘
-                    ▼
-             ┌──────────────┐
-             │    THEHIVE   │
-             │     CASE     │
-             └──────┬───────┘
-                    │
-                    ▼
-             ┌──────────────┐
-             │ INVESTIGATE │
-             │  & RESPOND  │
-             └──────────────┘
+┌─[ BREL@SOC-LAB ]───────────────────────────────[ THREAT MONITOR ]─┐
+│                                                                   │
+│  [01] SAMPLE INTAKE          ████████████████████  READY          │
+│  [02] CAPE SANDBOX           ████████████████████  READY          │
+│  [03] YARA DETECTION         ████████████████████  READY          │
+│  [04] CORTEX ANALYSIS        ████████████████████  READY          │
+│  [05] THEHIVE CASE           ████████████████████  READY          │
+│                                                                   │
+│  PIPELINE:                                                        │
+│                                                                   │
+│  SAMPLE ──> CAPE ──> YARA ──> CORTEX ──> THEHIVE                 │
+│                                                                   │
+│  OBJECTIVE: DETECT / INVESTIGATE / RESPOND                        │
+└───────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-# `06` — GITHUB ACTIVITY
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Brel7&show_icons=true&count_private=true&bg_color=0D0B13&border_color=302544&title_color=D99A58&icon_color=9B7FC4&text_color=D8D2DF&border_radius=16&hide_border=false" />
-
-<img height="180" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Brel7&layout=compact&langs_count=8&bg_color=0D0B13&border_color=302544&title_color=D99A58&icon_color=9B7FC4&text_color=D8D2DF&border_radius=16&hide_border=false" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Brel7&theme=dark&background=0D0B13&border=302544&ring=9B7FC4&fire=D99A58&currStreakLabel=D99A58&currStreakNum=F4EDE4&sideNums=F4EDE4&sideLabels=D8D2DF&dates=81798F&stroke=302544&borderRadius=16" />
+<img src="https://img.shields.io/badge/THEHIVE-CASE%20MANAGEMENT-FF8C00?style=for-the-badge&logo=thehive&logoColor=white&labelColor=050510"/>
+<img src="https://img.shields.io/badge/CORTEX-ANALYSIS-8A2BE2?style=for-the-badge&labelColor=050510"/>
+<img src="https://img.shields.io/badge/YARA-DETECTION-39FF14?style=for-the-badge&labelColor=050510"/>
+<img src="https://img.shields.io/badge/CAPE-SANDBOX-00F0FF?style=for-the-badge&labelColor=050510"/>
 
 </div>
 
 ---
 
-# `07` — CONTRIBUTIONS
+## `> DECRYPT_THE_SECRET.exe`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Brel7&bg_color=0D0B13&color=D8D2DF&line=9B7FC4&point=D99A58&area=true&area_color=35204D&hide_border=true&radius=16" width="95%"/>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=900&pause=300&color=FF00E5&center=true&vCenter=true&width=700&lines=01000010+01010010+01000101+01001100;01001101+01000001+01010011+01010011+01001001+01001101+01000001;DECRYPTION+IN+PROGRESS...;HINT%3A+THE+OPERATOR%27S+IDENTITY." />
 
 </div>
 
----
+**Mini challenge:** Can you decode the binary above?
 
-# `08` — CURRENTLY
+<details>
+<summary>🔓 ACCESS GRANTED — Reveal the solution</summary>
+
+The binary encodes ASCII characters.
+
+`BREL MASSIMA`
+
+Congratulations, operator. You have identified the system owner.
+
+</details>
+
+<details>
+<summary>🕵️ SECRET TERMINAL — Open classified message</summary>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  [01] Cybersecurity Engineering                              │
-│       └─ SOC / Detection / Incident Response                 │
-│                                                              │
-│  [02] Full-Stack Development                                 │
-│       └─ Web / Backend / APIs / Mobile                       │
-│                                                              │
-│  [03] Security Laboratory                                    │
-│       └─ TheHive / Cortex / YARA / CAPE / Elastic            │
-│                                                              │
-│  [04] Infrastructure                                        │
-│       └─ Linux / Docker / CI-CD / Virtualization             │
-│                                                              │
-│  [05] PFE                                                     │
-│       └─ Looking for a 5-month Cybersecurity internship       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+$ sudo ./classified_message.sh
+
+ACCESS GRANTED.
+
+There is always more beneath the surface.
+Read the logs. Follow the packets.
+Question the output.
+
+END OF TRANSMISSION.
 ```
+
+</details>
+
+---
+
+## `> TECH_ARSENAL --list-all`
 
 <div align="center">
 
-### `BUILD.`
+### `LANGUAGES // CORE`
 
-### `BREAK.`
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,cs,c,php&theme=dark&perline=8"/>
 
-### `UNDERSTAND.`
+### `FRONTEND // INTERFACE`
 
-### `SECURE.`
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,tailwind,bootstrap,vite&theme=dark&perline=9"/>
+
+### `BACKEND // ENGINE`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,spring,laravel,dotnet,graphql&theme=dark&perline=8"/>
+
+### `DATABASE // MEMORY`
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,firebase,elasticsearch&theme=dark&perline=7"/>
+
+### `INFRASTRUCTURE // OPERATIONS`
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,jenkins,aws,azure,gcp&theme=dark&perline=9"/>
+
+### `TOOLS // OPERATOR KIT`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark&perline=6"/>
 
 </div>
 
 ---
 
-# `09` — LET'S CONNECT
+## `> GITHUB_MAINFRAME`
 
 <div align="center">
+
+<img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Brel7&show_icons=true&hide_border=true&bg_color=050510&title_color=00F0FF&icon_color=FF00E5&text_color=E0E6FF&ring_color=39FF14"/>
+
+<img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Brel7&layout=compact&hide_border=true&bg_color=050510&title_color=00F0FF&text_color=E0E6FF"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Brel7&hide_border=true&background=050510&ring=00F0FF&fire=FF00E5&currStreakLabel=39FF14&sideLabels=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B93B5"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Brel7&bg_color=050510&color=00F0FF&line=8A2BE2&point=39FF14&area=true&area_color=35105B&hide_border=true"/>
+
+</div>
+
+---
+
+## `> CONTRIBUTION_MATRIX`
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated snake eating GitHub contribution squares"/>
+
+</div>
+
+---
+
+## `> NEXT_MISSION`
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=130&text=MISSION%3A%20PFE&fontSize=46&fontColor=39FF14&fontAlignY=42&desc=CYBERSECURITY%20%2F%2F%20SOC%20%2F%2F%20SECURITY%20ENGINEERING&descSize=15&descAlignY=72&color=0:050510,50:101B32,100:32104C&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1600&pause=500&color=00F0FF&center=true&vCenter=true&width=750&lines=%3E+SEARCHING+FOR+A+5-MONTH+PFE...;%3E+TARGET%3A+CYBERSECURITY;%3E+INTERESTS%3A+SOC+%7C+DETECTION+%7C+INCIDENT+RESPONSE;%3E+READY+FOR+THE+NEXT+MISSION." />
+
+<br/><br/>
 
 <a href="mailto:MASSIMA-NZAMBIBrel.HeinRich@esprim.tn">
-<img src="https://img.shields.io/badge/EMAIL-D99A58?style=for-the-badge&logo=gmail&logoColor=0D0B13"/>
+<img src="https://img.shields.io/badge/CONTACT%20THE%20OPERATOR-00F0FF?style=for-the-badge&logo=gmail&logoColor=050510&labelColor=050510"/>
 </a>
 
 <a href="https://github.com/Brel7">
-<img src="https://img.shields.io/badge/GITHUB-171022?style=for-the-badge&logo=github&logoColor=F4EDE4"/>
+<img src="https://img.shields.io/badge/ACCESS%20GITHUB-FF00E5?style=for-the-badge&logo=github&logoColor=white&labelColor=050510"/>
 </a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=1200&color=9B7FC4&center=true&vCenter=true&width=700&lines=Open+to+PFE+opportunities.;Cybersecurity+%7C+SOC+%7C+DevSecOps+%7C+Security+Engineering.;Let's+build+something+secure." />
 
 </div>
 
@@ -371,12 +236,10 @@ Automation
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:D99A58,30:6E4055,65:35204D,100:08070D&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=600&color=39FF14&center=true&vCenter=true&width=700&lines=CONNECTION+ESTABLISHED...;ENCRYPTION+ENABLED...;KEEP+BUILDING.+KEEP+INVESTIGATING.;END+OF+TRANSMISSION+%E2%96%88" />
 
-<sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F0FF,30:8A2BE2,65:24104B,100:02030A"/>
 
-`© Brel MASSIMA • Built with curiosity, caffeine and a suspicious amount of terminal windows.`
-
-</sub>
+<sub>BREL MASSIMA // ENGINEERED WITH CURIOSITY // SECURED WITH INTENT</sub>
 
 </div>
