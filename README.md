@@ -55,7 +55,7 @@
 
 </div>
 
-I'm Brel MASSIMA — a developer exploring the intersection of software engineering and cybersecurity.
+I'm Brel MASSIMA a developer exploring the intersection of software engineering and cybersecurity.
 
 I build applications, work with backend systems, explore infrastructure, and develop hands-on security labs. I am particularly interested in threat analysis, detection, incident response, and the engineering behind secure systems.
 
