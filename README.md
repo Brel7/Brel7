@@ -32,7 +32,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║  OPERATOR: BREL MASSIMA                                          ║
 ║  CLASS:    FULL-STACK DEVELOPER / CYBERSECURITY ENGINEER         ║
-║  MODE:     BUILD &gt; ANALYZE &gt; DETECT &gt; SECURE                     ║
+║  MODE:     BUILD &gt; ANALYZE &gt; DETECT &gt; SECURE            ║             ║
 ║  MISSION:  FIND A 5-MONTH PFE INTERNSHIP IN CYBERSECURITY        ║
 ╚══════════════════════════════════════════════════════════════════╝
 </pre>
@@ -52,13 +52,10 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="48%" alt="Animated cyber terminal"/>
-<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="48%" alt="Animated digital code"/>
-
-<br/>
-
-<!-- HACKING IMAGE -->
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="40%" alt="Hacker typing code in the dark"/>
+<!-- 3 images alignées sur la même ligne : l'image hacking est à droite -->
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="32%" alt="Animated cyber terminal"/>
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="32%" alt="Animated digital code"/>
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="32%" alt="Hacker typing code in the dark"/>
 
 </div>
 
@@ -98,7 +95,7 @@ MISSION="PFE Internship — Cybersecurity"
 │                                                                   │
 │  PIPELINE:                                                        │
 │                                                                   │
-│  SAMPLE ──&gt; CAPE ──&gt; YARA ──&gt; CORTEX ──&gt; THEHIVE                  │
+│  SAMPLE ──&gt; CAPE ──&gt; YARA ──&gt; CORTEX ──&gt; THEHIVE      │               │
 │                                                                   │
 │  OBJECTIVE: DETECT / INVESTIGATE / RESPOND                        │
 └───────────────────────────────────────────────────────────────────┘
@@ -369,7 +366,8 @@ END OF TRANSMISSION.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=600&color=39FF14&center=true&vCenter=true&width=700&lines=CONNECTION+ESTABLISHED...;ENCRYPTION+ENABLED...;KEEP+BUILDING.+KEEP+INVESTIGATING.;END+OF+TRANSMISSION+%E2%96%88" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F0FF,30:8A2BE2,65:24104B,100:02030A"/>
+<!-- MATRIX : même bannière que le haut de page -->
+<img src="https://profilekit.vercel.app/api/matrix?text=BREL+MASSIMA&font=jetbrains-mono&width=700&height=220" width="100%" alt="BREL MASSIMA"/>
 
 <sub>BREL MASSIMA // ENGINEERED WITH CURIOSITY // SECURED WITH INTENT</sub>
 
