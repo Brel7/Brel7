@@ -200,7 +200,6 @@ END OF TRANSMISSION.
 
 ---
 
-## `> CONTRIBUTION_MATRIX`
 
 <div align="center">
 
