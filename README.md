@@ -3,8 +3,11 @@
 <!-- MATRIX BACKGROUND -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=280&text=BREL%20MASSIMA&fontSize=68&fontColor=00FF41&fontAlignY=45&desc=CYBERSECURITY%20%2F%2F%20NETWORK%20ENGINEERING&descSize=15&descAlignY=65&descColor=ADFFB0&animation=twinkling&color=0:000000,25:001A00,50:002B00,75:001000,100:000000" />
 
+<!-- MATRIX DIGITAL RAIN -->
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="220" alt="Matrix digital rain"/>
+
 <!-- TERMINAL STATUS -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=%3E+WAKE+UP%2C+OPERATOR...;%3E+INITIALIZING+MATRIX+PROTOCOL;%3E+SCANNING+NETWORKS...;%3E+ACCESS+GRANTED_" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=%3E+WAKE+UP%2C+OPERATOR...;%3E+THE+MATRIX+HAS+YOU...;%3E+FOLLOW+THE+WHITE+RABBIT.;%3E+ACCESS+GRANTED_" />
 
 <br/>
 
@@ -17,16 +20,10 @@
 <img src="https://komarev.com/ghpvc/?username=Brel7&style=flat-square&color=008F11&label=CONNECTIONS" />
 
 </div>
-```
-
 
 <!-- ═══════════════ END HEADER ═══════════════ -->
-```
 
-
-<!-- ═══════════════ END HEADER ═══════════════ -->
-```
-
+<div align="center">
 
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%" alt="Cyberpunk animated digital world"/>
 
@@ -66,6 +63,11 @@
 
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="48%" alt="Animated cyber terminal"/>
 <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="48%" alt="Animated digital code"/>
+
+<br/>
+
+<!-- NEW HACKING IMAGE -->
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="98%" alt="Hacker typing code in the dark"/>
 
 </div>
 
@@ -122,6 +124,140 @@ MISSION="PFE Internship — Cybersecurity"
 
 ---
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="120" alt="Matrix digital rain"/>
+
+</div>
+
+## `> CRYPTO_GAME.exe`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1500&pause=400&color=00FF41&center=true&vCenter=true&width=750&lines=%3E+WELCOME+TO+THE+CRYPTO+CHALLENGE;%3E+3+LEVELS.+1+FLAG.;%3E+ARE+YOU+READY%2C+NEO%3F" />
+
+</div>
+
+**Règles :** décode les 3 messages ci-dessous. Chaque niveau est un classique de la cryptographie. Assemble les 3 réponses pour obtenir le **flag final**.
+
+### 🔰 Niveau 1 — Chiffre de César (décalage de 3)
+
+```text
+ZHOFRPH WR WKH PDWULA
+```
+
+<details>
+<summary>💡 Indice</summary>
+
+Jules César décalait chaque lettre de 3 positions dans l'alphabet. Pour décoder, décale chaque lettre de 3 positions vers la gauche (D → A).
+
+</details>
+
+<details>
+<summary>🔓 Solution niveau 1</summary>
+
+```text
+WELCOME TO THE MATRIX
+```
+
+</details>
+
+### 🔰 Niveau 2 — Base64
+
+```text
+V0hJVEUgUkFCQklU
+```
+
+<details>
+<summary>💡 Indice</summary>
+
+Cet encodage est omniprésent sur le web (emails, JWT, headers HTTP). Un terminal Linux fait ça en une commande : `echo "..." | base64 -d`
+
+</details>
+
+<details>
+<summary>🔓 Solution niveau 2</summary>
+
+```text
+WHITE RABBIT
+```
+
+</details>
+
+### 🔰 Niveau 3 — Hexadécimal (ASCII)
+
+```text
+52 45 44 20 50 49 4C 4C
+```
+
+<details>
+<summary>💡 Indice</summary>
+
+Chaque octet hexadécimal correspond à un caractère ASCII. Exemple : `41` = A, `42` = B…
+
+</details>
+
+<details>
+<summary>🔓 Solution niveau 3</summary>
+
+```text
+RED PILL
+```
+
+</details>
+
+### 🏁 Flag final
+
+<details>
+<summary>🚩 Valider le challenge</summary>
+
+Assemble les mots-clés des 3 niveaux :
+
+```text
+MATRIX{WHITE_RABBIT_RED_PILL}
+```
+
+Bravo, opérateur ! Tu as pris la pilule rouge. 💊
+
+Envoie-moi ton temps de résolution par mail, ça m'intéresse. 😉
+
+</details>
+
+---
+
+## `> CHOOSE_YOUR_PILL.exe`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=700&lines=%3E+RED+PILL+%3D+THE+TRUTH;%3E+BLUE+PILL+%3D+THE+ILLUSION;%3E+CHOOSE+WISELY..." />
+
+</div>
+
+<details>
+<summary>🔴 Prendre la pilule rouge</summary>
+
+```text
+$ ./red_pill.sh
+[+] Reality unlocked.
+[+] Always read the logs. Always verify the source.
+[+] Never trust user input.
+```
+
+</details>
+
+<details>
+<summary>🔵 Prendre la pilule bleue</summary>
+
+```text
+$ ./blue_pill.sh
+[!] You woke up in your bed and believed whatever you wanted to believe.
+[!] Default password: admin / admin. Good luck.
+```
+
+</details>
+
+---
+
 ## `> DECRYPT_THE_SECRET.exe`
 
 <div align="center">
@@ -130,7 +266,7 @@ MISSION="PFE Internship — Cybersecurity"
 
 </div>
 
-**Mini challenge:** Can you decode the binary above?
+**Mini challenge :** Can you decode the binary above?
 
 <details>
 <summary>🔓 ACCESS GRANTED — Reveal the solution</summary>
@@ -214,7 +350,6 @@ END OF TRANSMISSION.
 
 ---
 
-
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated snake eating GitHub contribution squares"/>
@@ -248,6 +383,8 @@ END OF TRANSMISSION.
 ---
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="120" alt="Matrix digital rain"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=600&color=39FF14&center=true&vCenter=true&width=700&lines=CONNECTION+ESTABLISHED...;ENCRYPTION+ENABLED...;KEEP+BUILDING.+KEEP+INVESTIGATING.;END+OF+TRANSMISSION+%E2%96%88" />
 
