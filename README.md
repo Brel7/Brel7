@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- MATRIX RAIN (lettres vertes qui tombent) -->
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" alt="Matrix digital rain"/>
+<!-- MATRIX RAIN : lettres vertes qui tombent -->
+<img src="https://raw.githubusercontent.com/m-sarabi/rain-char/refs/heads/main/assets/rain-char.gif?raw=true" width="100%" alt="Matrix digital rain"/>
 
 <!-- NOM -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=140&text=BREL%20MASSIMA&fontSize=60&fontColor=00FF41&fontAlignY=42&desc=CYBERSECURITY%20%2F%2F%20NETWORK%20ENGINEERING&descSize=15&descAlignY=72&descColor=ADFFB0&color=0:000000,50:001A00,100:000000" />
@@ -372,7 +372,7 @@ END OF TRANSMISSION.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=600&color=39FF14&center=true&vCenter=true&width=700&lines=CONNECTION+ESTABLISHED...;ENCRYPTION+ENABLED...;KEEP+BUILDING.+KEEP+INVESTIGATING.;END+OF+TRANSMISSION+%E2%96%88" />
 
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" alt="Matrix digital rain"/>
+<img src="https://raw.githubusercontent.com/m-sarabi/rain-char/refs/heads/main/assets/rain-char.gif?raw=true" width="100%" alt="Matrix digital rain"/>
 
 <sub>BREL MASSIMA // ENGINEERED WITH CURIOSITY // SECURED WITH INTENT</sub>
 
