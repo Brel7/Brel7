@@ -32,7 +32,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║  OPERATOR: BREL MASSIMA                                          ║
 ║  CLASS:    FULL-STACK DEVELOPER / CYBERSECURITY ENGINEER         ║
-║  MODE:     BUILD &gt; ANALYZE &gt; DETECT &gt; SECURE            ║             ║
+║  MODE:     BUILD &gt; ANALYZE &gt; DETECT &gt; SECURE            ║
 ║  MISSION:  FIND A 5-MONTH PFE INTERNSHIP IN CYBERSECURITY        ║
 ╚══════════════════════════════════════════════════════════════════╝
 </pre>
@@ -50,14 +50,19 @@
 
 ## `> SYSTEM_INTERFACE.exe`
 
-<div align="center">
-
-<!-- 3 images alignées sur la même ligne : l'image hacking est à droite -->
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="32%" alt="Animated cyber terminal"/>
-<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="32%" alt="Animated digital code"/>
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="32%" alt="Hacker typing code in the dark"/>
-
-</div>
+<!-- 2 colonnes égales : 2 images empilées à gauche, image hacking à droite -->
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Animated cyber terminal"/>
+<br/>
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="100%" alt="Animated digital code"/>
+</td>
+<td width="50%" align="center" valign="middle">
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100%" alt="Hacker typing code in the dark"/>
+</td>
+</tr>
+</table>
 
 I'm Brel MASSIMA a developer exploring the intersection of software engineering and cybersecurity.
 
@@ -95,7 +100,7 @@ MISSION="PFE Internship — Cybersecurity"
 │                                                                   │
 │  PIPELINE:                                                        │
 │                                                                   │
-│  SAMPLE ──&gt; CAPE ──&gt; YARA ──&gt; CORTEX ──&gt; THEHIVE      │               │
+│  SAMPLE ──&gt; CAPE ──&gt; YARA ──&gt; CORTEX ──&gt; THEHIVE      │                │
 │                                                                   │
 │  OBJECTIVE: DETECT / INVESTIGATE / RESPOND                        │
 └───────────────────────────────────────────────────────────────────┘
