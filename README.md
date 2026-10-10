@@ -28,10 +28,10 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════╗
-║  OPERATOR: BREL MASSIMA                                         ║
+║  OPERATOR: BREL MASSIMA                                          ║
 ║  CLASS:    FULL-STACK DEVELOPER / CYBERSECURITY ENGINEER         ║
 ║  MODE:     BUILD > ANALYZE > DETECT > SECURE                     ║
-║  MISSION:  FIND A 5-MONTH PFE INTERNSHIP IN CYBERSECURITY       ║
+║  MISSION:  FIND A 5-MONTH PFE INTERNSHIP IN CYBERSECURITY        ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -91,7 +91,7 @@ MISSION="PFE Internship — Cybersecurity"
 │                                                                   │
 │  PIPELINE:                                                        │
 │                                                                   │
-│  SAMPLE ──> CAPE ──> YARA ──> CORTEX ──> THEHIVE                 │
+│  SAMPLE ──> CAPE ──> YARA ──> CORTEX ──> THEHIVE                  │
 │                                                                   │
 │  OBJECTIVE: DETECT / INVESTIGATE / RESPOND                        │
 └───────────────────────────────────────────────────────────────────┘
