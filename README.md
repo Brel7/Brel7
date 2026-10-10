@@ -33,6 +33,10 @@
 ```
 
 
+<!-- ═══════════════ END HEADER ═══════════════ -->
+```
+
+
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%" alt="Cyberpunk animated digital world"/>
 
 </div>
