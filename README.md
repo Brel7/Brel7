@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- MATRIX : pluie verte EN ARRIÈRE-PLAN du nom -->
-<img src="https://profilekit.vercel.app/api/matrix?text=BREL+MASSIMA&font=jetbrains-mono&width=1200&height=300" width="100%" alt="BREL MASSIMA"/>
+<img src="https://profilekit.vercel.app/api/matrix?text=BREL+MASSIMA&font=jetbrains-mono&width=1200&height=360" width="100%" alt="BREL MASSIMA"/>
 
 <!-- TERMINAL STATUS -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=%3E+WAKE+UP%2C+OPERATOR...;%3E+THE+MATRIX+HAS+YOU...;%3E+FOLLOW+THE+WHITE+RABBIT.;%3E+ACCESS+GRANTED_" />
@@ -26,14 +26,14 @@
 
 </div>
 
-```text
+<pre>
 ╔══════════════════════════════════════════════════════════════════╗
 ║  OPERATOR: BREL MASSIMA                                          ║
 ║  CLASS:    FULL-STACK DEVELOPER / CYBERSECURITY ENGINEER         ║
-║  MODE:     BUILD > ANALYZE > DETECT > SECURE                     ║
+║  MODE:     BUILD &gt; ANALYZE &gt; DETECT &gt; SECURE                     ║
 ║  MISSION:  FIND A 5-MONTH PFE INTERNSHIP IN CYBERSECURITY        ║
 ╚══════════════════════════════════════════════════════════════════╝
-```
+</pre>
 
 <div align="center">
 
@@ -62,7 +62,7 @@ I'm Brel MASSIMA a developer exploring the intersection of software engineering 
 
 I build applications, work with backend systems, explore infrastructure, and develop hands-on security labs. I am particularly interested in threat analysis, detection, incident response, and the engineering behind secure systems.
 
-```bash
+<pre>
 $ cat /etc/brel/mission.conf
 
 IDENTITY="Brel MASSIMA"
@@ -71,7 +71,7 @@ SPECIALIZATION="Cybersecurity"
 ENVIRONMENT="Linux / Docker / Networks"
 SOC_STACK="TheHive + Cortex + YARA + CAPE"
 MISSION="PFE Internship — Cybersecurity"
-```
+</pre>
 
 <div align="center">
 
@@ -81,7 +81,7 @@ MISSION="PFE Internship — Cybersecurity"
 
 </div>
 
-```text
+<pre>
 ┌─[ BREL@SOC-LAB ]───────────────────────────────[ THREAT MONITOR ]─┐
 │                                                                   │
 │  [01] SAMPLE INTAKE          ████████████████████  READY          │
@@ -92,11 +92,11 @@ MISSION="PFE Internship — Cybersecurity"
 │                                                                   │
 │  PIPELINE:                                                        │
 │                                                                   │
-│  SAMPLE ──> CAPE ──> YARA ──> CORTEX ──> THEHIVE                  │
+│  SAMPLE ──&gt; CAPE ──&gt; YARA ──&gt; CORTEX ──&gt; THEHIVE                  │
 │                                                                   │
 │  OBJECTIVE: DETECT / INVESTIGATE / RESPOND                        │
 └───────────────────────────────────────────────────────────────────┘
-```
+</pre>
 
 <div align="center">
 
@@ -119,9 +119,9 @@ MISSION="PFE Internship — Cybersecurity"
 
 ### <img src="https://img.shields.io/badge/LEVEL-01-00FF41?style=flat-square&logo=gnuprivacyguard&logoColor=00FF41&labelColor=000000"/> Chiffre de César (décalage de 3)
 
-```text
+<pre>
 ZHOFRPH WR WKH PDWULA
-```
+</pre>
 
 <details>
 <summary><img src="https://img.shields.io/badge/HINT-00F0FF?style=flat-square&logo=tryhackme&logoColor=00F0FF&labelColor=000000"/></summary>
@@ -133,53 +133,53 @@ Jules César décalait chaque lettre de 3 positions dans l'alphabet. Pour décod
 <details>
 <summary><img src="https://img.shields.io/badge/SOLUTION-39FF14?style=flat-square&logo=letsencrypt&logoColor=39FF14&labelColor=000000"/></summary>
 
-```text
+<pre>
 WELCOME TO THE MATRIX
-```
+</pre>
 
 </details>
 
 ### <img src="https://img.shields.io/badge/LEVEL-02-00FF41?style=flat-square&logo=gnuprivacyguard&logoColor=00FF41&labelColor=000000"/> Base64
 
-```text
+<pre>
 V0hJVEUgUkFCQklU
-```
+</pre>
 
 <details>
 <summary><img src="https://img.shields.io/badge/HINT-00F0FF?style=flat-square&logo=tryhackme&logoColor=00F0FF&labelColor=000000"/></summary>
 
-Cet encodage est omniprésent sur le web (emails, JWT, headers HTTP). Un terminal Linux fait ça en une commande : `echo "..." | base64 -d`
+Cet encodage est omniprésent sur le web (emails, JWT, headers HTTP). Un terminal Linux le décode en une commande : <code>echo "..." | base64 -d</code>
 
 </details>
 
 <details>
 <summary><img src="https://img.shields.io/badge/SOLUTION-39FF14?style=flat-square&logo=letsencrypt&logoColor=39FF14&labelColor=000000"/></summary>
 
-```text
+<pre>
 WHITE RABBIT
-```
+</pre>
 
 </details>
 
 ### <img src="https://img.shields.io/badge/LEVEL-03-00FF41?style=flat-square&logo=gnuprivacyguard&logoColor=00FF41&labelColor=000000"/> Hexadécimal (ASCII)
 
-```text
+<pre>
 52 45 44 20 50 49 4C 4C
-```
+</pre>
 
 <details>
 <summary><img src="https://img.shields.io/badge/HINT-00F0FF?style=flat-square&logo=tryhackme&logoColor=00F0FF&labelColor=000000"/></summary>
 
-Chaque octet hexadécimal correspond à un caractère ASCII. Exemple : `41` = A, `42` = B…
+Chaque octet hexadécimal correspond à un caractère ASCII. Exemple : <code>41</code> = A, <code>42</code> = B…
 
 </details>
 
 <details>
 <summary><img src="https://img.shields.io/badge/SOLUTION-39FF14?style=flat-square&logo=letsencrypt&logoColor=39FF14&labelColor=000000"/></summary>
 
-```text
+<pre>
 RED PILL
-```
+</pre>
 
 </details>
 
@@ -190,9 +190,9 @@ RED PILL
 
 Assemble les mots-clés des 3 niveaux :
 
-```text
+<pre>
 MATRIX{WHITE_RABBIT_RED_PILL}
-```
+</pre>
 
 Bravo, opérateur ! Tu as pris la pilule rouge.
 
@@ -209,23 +209,23 @@ Bravo, opérateur ! Tu as pris la pilule rouge.
 <details>
 <summary><img src="https://img.shields.io/badge/RED%20PILL-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=000000"/></summary>
 
-```text
+<pre>
 $ ./red_pill.sh
 [+] Reality unlocked.
 [+] Always read the logs. Always verify the source.
 [+] Never trust user input.
-```
+</pre>
 
 </details>
 
 <details>
 <summary><img src="https://img.shields.io/badge/BLUE%20PILL-0066FF?style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=000000"/></summary>
 
-```text
+<pre>
 $ ./blue_pill.sh
 [!] You woke up in your bed and believed whatever you wanted to believe.
 [!] Default password: admin / admin. Good luck.
-```
+</pre>
 
 </details>
 
@@ -244,7 +244,7 @@ $ ./blue_pill.sh
 
 The binary encodes ASCII characters.
 
-`BREL MASSIMA`
+<code>BREL MASSIMA</code>
 
 Congratulations, operator. You have identified the system owner.
 
@@ -253,7 +253,7 @@ Congratulations, operator. You have identified the system owner.
 <details>
 <summary><img src="https://img.shields.io/badge/SECRET%20TERMINAL-CLASSIFIED-FF00E5?style=flat-square&logo=gnometerminal&logoColor=FF00E5&labelColor=000000"/></summary>
 
-```text
+<pre>
 $ sudo ./classified_message.sh
 
 ACCESS GRANTED.
@@ -263,7 +263,7 @@ Read the logs. Follow the packets.
 Question the output.
 
 END OF TRANSMISSION.
-```
+</pre>
 
 </details>
 
