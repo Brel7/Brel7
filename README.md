@@ -1,33 +1,24 @@
 <div align="center">
 
-<!-- ═══════════════ CYBERPUNK HEADER ═══════════════ -->
+<!-- MATRIX BACKGROUND -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=280&text=BREL%20MASSIMA&fontSize=68&fontColor=00FF41&fontAlignY=45&desc=CYBERSECURITY%20%2F%2F%20NETWORK%20ENGINEERING&descSize=15&descAlignY=65&descColor=ADFFB0&animation=twinkling&color=0:000000,25:001A00,50:002B00,75:001000,100:000000" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=BREL%20MASSIMA&fontSize=76&fontColor=00F0FF&fontAlignY=36&desc=CYBERSECURITY%20%2F%2F%20FULL-STACK%20DEVELOPER&descSize=17&descAlignY=57&descColor=F5F3FF&animation=twinkling&stroke=8B5CF6&strokeWidth=2&color=0:02010A,20:090D28,45:171044,70:38106B,90:075985,100:00F0FF" />
-
-<!-- NEON FRAME -->
-
-<img width="85%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=1800&pause=500&color=00F0FF&center=true&vCenter=true&width=800&height=45&lines=%5B+INITIALIZING+BREL.OS+%5D;%5B+LOADING+CYBERSECURITY+MODULES+%5D;%5B+CONNECTING+TO+THE+MATRIX+%5D;%5B+SYSTEM+ONLINE+%2F%2F+ACCESS+GRANTED+%5D" />
+<!-- TERMINAL STATUS -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=%3E+WAKE+UP%2C+OPERATOR...;%3E+INITIALIZING+MATRIX+PROTOCOL;%3E+SCANNING+NETWORKS...;%3E+ACCESS+GRANTED_" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/IDENTITY-BREL%20MASSIMA-00F0FF?style=for-the-badge&labelColor=050510" />
-<img src="https://img.shields.io/badge/CLASS-CYBER%20OPERATOR-8B5CF6?style=for-the-badge&labelColor=050510" />
-<img src="https://img.shields.io/badge/MISSION-FINDING%20PFE-FF00E5?style=for-the-badge&labelColor=050510" />
+<img src="https://img.shields.io/badge/SYSTEM-MATRIX-00FF41?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/ROLE-CYBERSECURITY-00FF41?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000" />
 
 <br/><br/>
 
-<!-- ANIMATED CYBERPUNK BACKGROUND -->
-
-<img width="100%" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Cyberpunk digital world"/>
-
-<br/>
-
-<!-- PROFILE STATS -->
-
-<img src="https://komarev.com/ghpvc/?username=Brel7&style=for-the-badge&color=00F0FF&label=PROFILE+VISITS" />
-<img src="https://img.shields.io/github/followers/Brel7?style=for-the-badge&logo=github&label=ALLIES&color=8B5CF6&labelColor=050510" />
+<img src="https://komarev.com/ghpvc/?username=Brel7&style=flat-square&color=008F11&label=CONNECTIONS" />
 
 </div>
+```
+
 
 <!-- ═══════════════ END HEADER ═══════════════ -->
 ```
