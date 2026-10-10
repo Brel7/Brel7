@@ -1,10 +1,67 @@
+mkdir -p assets
+
+# ───────────── 1) FOND MATRIX ANIMÉ (SVG) ─────────────
+cat > assets/matrix-header.svg <<'EOF'
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#003B00" stop-opacity="0"/>
+      <stop offset="0.6" stop-color="#00A82D"/>
+      <stop offset="1" stop-color="#CFFFD8"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .c{font:18px monospace;fill:url(#g);writing-mode:vertical-rl;text-orientation:upright}
+      @keyframes f{from{transform:translateY(-430px)}to{transform:translateY(330px)}}
+      .a{animation:f 5s linear infinite}
+      .b{animation:f 8s linear infinite}
+      .d{animation:f 11s linear infinite}
+      .t{font:bold 64px monospace;fill:#00FF41;letter-spacing:6px}
+      .s{font:15px monospace;fill:#ADFFB0;letter-spacing:4px}
+    </style>
+  </defs>
+  <rect width="1000" height="300" fill="#000"/>
+  <g>
+    <text class="c a" x="15"  y="0" style="animation-delay:-1s">ｱ0ｲ1ｳ0ｴ1ｵ0ｶ1ｷ0ｸ1ｹ0ｺ1ｻ0ｼ1</text>
+    <text class="c b" x="56"  y="0" style="animation-delay:-5s">1ｽ0ｾ1ｿ0ﾀ1ﾁ0ﾂ1ﾃ0ﾄ1ﾅ0ﾆ1ﾇ0</text>
+    <text class="c d" x="97"  y="0" style="animation-delay:-8s">ﾈ0ﾉ1ﾊ0ﾋ1ﾌ0ﾍ1ﾎ0ﾏ1ﾐ0ﾑ1ﾒ0ﾓ1</text>
+    <text class="c a" x="138" y="0" style="animation-delay:-3s">0ﾔ1ﾕ0ﾖ1ﾗ0ﾘ1ﾙ0ﾚ1ﾛ0ﾜ1ﾝ0ｱ1</text>
+    <text class="c b" x="179" y="0" style="animation-delay:-2s">ｲ1ｳ0ｴ1ｵ0ｶ1ｷ0ｸ1ｹ0ｺ1ｻ0ｼ1ｽ0</text>
+    <text class="c d" x="220" y="0" style="animation-delay:-10s">1ｾ0ｿ1ﾀ0ﾁ1ﾂ0ﾃ1ﾄ0ﾅ1ﾆ0ﾇ1ﾈ0</text>
+    <text class="c a" x="261" y="0" style="animation-delay:-4s">ﾉ0ﾊ1ﾋ0ﾌ1ﾍ0ﾎ1ﾏ0ﾐ1ﾑ0ﾒ1ﾓ0ﾔ1</text>
+    <text class="c b" x="302" y="0" style="animation-delay:-7s">0ﾕ1ﾖ0ﾗ1ﾘ0ﾙ1ﾚ0ﾛ1ﾜ0ﾝ1ｱ0ｲ1</text>
+    <text class="c d" x="343" y="0" style="animation-delay:-1s">ｳ1ｴ0ｵ1ｶ0ｷ1ｸ0ｹ1ｺ0ｻ1ｼ0ｽ1ｾ0</text>
+    <text class="c a" x="384" y="0" style="animation-delay:-2.5s">1ｿ0ﾀ1ﾁ0ﾂ1ﾃ0ﾄ1ﾅ0ﾆ1ﾇ0ﾈ1ﾉ0</text>
+    <text class="c b" x="425" y="0" style="animation-delay:-6s">ﾊ0ﾋ1ﾌ0ﾍ1ﾎ0ﾏ1ﾐ0ﾑ1ﾒ0ﾓ1ﾔ0ﾕ1</text>
+    <text class="c d" x="466" y="0" style="animation-delay:-9s">0ﾖ1ﾗ0ﾘ1ﾙ0ﾚ1ﾛ0ﾜ1ﾝ0ｱ1ｲ0ｳ1</text>
+    <text class="c a" x="507" y="0" style="animation-delay:-0.5s">ｴ1ｵ0ｶ1ｷ0ｸ1ｹ0ｺ1ｻ0ｼ1ｽ0ｾ1ｿ0</text>
+    <text class="c b" x="548" y="0" style="animation-delay:-3s">1ﾀ0ﾁ1ﾂ0ﾃ1ﾄ0ﾅ1ﾆ0ﾇ1ﾈ0ﾉ1ﾊ0</text>
+    <text class="c d" x="589" y="0" style="animation-delay:-5s">ﾋ0ﾌ1ﾍ0ﾎ1ﾏ0ﾐ1ﾑ0ﾒ1ﾓ0ﾔ1ﾕ0ﾖ1</text>
+    <text class="c a" x="630" y="0" style="animation-delay:-4s">0ﾗ1ﾘ0ﾙ1ﾚ0ﾛ1ﾜ0ﾝ1ｱ0ｲ1ｳ0ｴ1</text>
+    <text class="c b" x="671" y="0" style="animation-delay:-1.5s">ｵ1ｶ0ｷ1ｸ0ｹ1ｺ0ｻ1ｼ0ｽ1ｾ0ｿ1ﾀ0</text>
+    <text class="c d" x="712" y="0" style="animation-delay:-7s">1ﾁ0ﾂ1ﾃ0ﾄ1ﾅ0ﾆ1ﾇ0ﾈ1ﾉ0ﾊ1ﾋ0</text>
+    <text class="c a" x="753" y="0" style="animation-delay:-2s">ﾌ0ﾍ1ﾎ0ﾏ1ﾐ0ﾑ1ﾒ0ﾓ1ﾔ0ﾕ1ﾖ0ﾗ1</text>
+    <text class="c b" x="794" y="0" style="animation-delay:-6.5s">0ﾘ1ﾙ0ﾚ1ﾛ0ﾜ1ﾝ0ｱ1ｲ0ｳ1ｴ0ｵ1</text>
+    <text class="c d" x="835" y="0" style="animation-delay:-3.5s">ｶ1ｷ0ｸ1ｹ0ｺ1ｻ0ｼ1ｽ0ｾ1ｿ0ﾀ1ﾁ0</text>
+    <text class="c a" x="876" y="0" style="animation-delay:-4.5s">1ﾂ0ﾃ1ﾄ0ﾅ1ﾆ0ﾇ1ﾈ0ﾉ1ﾊ0ﾋ1ﾌ0</text>
+    <text class="c b" x="917" y="0" style="animation-delay:-0.8s">ﾍ0ﾎ1ﾏ0ﾐ1ﾑ0ﾒ1ﾓ0ﾔ1ﾕ0ﾖ1ﾗ0ﾘ1</text>
+    <text class="c d" x="958" y="0" style="animation-delay:-8.5s">0ﾙ1ﾚ0ﾛ1ﾜ0ﾝ1ｱ0ｲ1ｳ0ｴ1ｵ0ｶ1</text>
+  </g>
+  <rect x="150" y="95" width="700" height="125" rx="10" fill="#000" fill-opacity="0.6"/>
+  <text class="t" x="500" y="162" text-anchor="middle" filter="url(#glow)">BREL MASSIMA</text>
+  <text class="s" x="500" y="200" text-anchor="middle">CYBERSECURITY // NETWORK ENGINEERING</text>
+</svg>
+EOF
+
+# ───────────── 2) README.md COMPLET ─────────────
+cat > README.md <<'EOF'
 <div align="center">
 
-<!-- MATRIX BACKGROUND -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=280&text=BREL%20MASSIMA&fontSize=68&fontColor=00FF41&fontAlignY=45&desc=CYBERSECURITY%20%2F%2F%20NETWORK%20ENGINEERING&descSize=15&descAlignY=65&descColor=ADFFB0&animation=twinkling&color=0:000000,25:001A00,50:002B00,75:001000,100:000000" />
-
-<!-- MATRIX DIGITAL RAIN -->
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="140" alt="Matrix digital rain"/>
+<!-- MATRIX BACKGROUND (SVG animé) -->
+<img src="https://raw.githubusercontent.com/Brel7/Brel7/main/assets/matrix-header.svg" width="100%" alt="Matrix header"/>
 
 <!-- TERMINAL STATUS -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=%3E+WAKE+UP%2C+OPERATOR...;%3E+THE+MATRIX+HAS+YOU...;%3E+FOLLOW+THE+WHITE+RABBIT.;%3E+ACCESS+GRANTED_" />
@@ -25,13 +82,11 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="60" alt="Matrix rain"/>
-
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%" alt="Cyberpunk animated digital world"/>
 
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="60" alt="Matrix rain"/>
-
 </div>
+
+---
 
 <div align="center">
 
@@ -59,8 +114,6 @@
 
 </div>
 
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="50" alt="Matrix rain"/>
-
 ## `> SYSTEM_INTERFACE.exe`
 
 <div align="center">
@@ -70,7 +123,7 @@
 
 <br/>
 
-<!-- HACKING IMAGE (reduced) -->
+<!-- HACKING IMAGE -->
 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="40%" alt="Hacker typing code in the dark"/>
 
 </div>
@@ -90,7 +143,7 @@ SOC_STACK="TheHive + Cortex + YARA + CAPE"
 MISSION="PFE Internship — Cybersecurity"
 ```
 
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="50" alt="Matrix rain"/>
+---
 
 <div align="center">
 
@@ -126,7 +179,7 @@ MISSION="PFE Internship — Cybersecurity"
 
 </div>
 
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="50" alt="Matrix rain"/>
+---
 
 ## `> CRYPTO_GAME.exe`
 
@@ -219,7 +272,7 @@ Bravo, opérateur ! Tu as pris la pilule rouge.
 
 </details>
 
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="50" alt="Matrix rain"/>
+---
 
 ## `> CHOOSE_YOUR_PILL.exe`
 
@@ -252,7 +305,7 @@ $ ./blue_pill.sh
 
 </details>
 
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="50" alt="Matrix rain"/>
+---
 
 ## `> DECRYPT_THE_SECRET.exe`
 
@@ -292,7 +345,7 @@ END OF TRANSMISSION.
 
 </details>
 
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="50" alt="Matrix rain"/>
+---
 
 ## `> TECH_ARSENAL --list-all`
 
@@ -324,7 +377,7 @@ END OF TRANSMISSION.
 
 </div>
 
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="50" alt="Matrix rain"/>
+---
 
 ## `> GITHUB_MAINFRAME`
 
@@ -344,13 +397,15 @@ END OF TRANSMISSION.
 
 </div>
 
+---
+
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated snake eating GitHub contribution squares"/>
 
 </div>
 
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="50" alt="Matrix rain"/>
+---
 
 ## `> NEXT_MISSION`
 
@@ -374,9 +429,9 @@ END OF TRANSMISSION.
 
 </div>
 
-<div align="center">
+---
 
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="120" alt="Matrix digital rain"/>
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=600&color=39FF14&center=true&vCenter=true&width=700&lines=CONNECTION+ESTABLISHED...;ENCRYPTION+ENABLED...;KEEP+BUILDING.+KEEP+INVESTIGATING.;END+OF+TRANSMISSION+%E2%96%88" />
 
@@ -385,3 +440,9 @@ END OF TRANSMISSION.
 <sub>BREL MASSIMA // ENGINEERED WITH CURIOSITY // SECURED WITH INTENT</sub>
 
 </div>
+EOF
+
+# ───────────── 3) PUBLIER ─────────────
+git add assets/matrix-header.svg README.md
+git commit -m "Update README: Matrix SVG background + crypto game"
+git push
