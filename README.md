@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- MATRIX RAIN : lettres vertes qui tombent -->
-<img src="https://raw.githubusercontent.com/m-sarabi/rain-char/refs/heads/main/assets/rain-char.gif?raw=true" width="100%" alt="Matrix digital rain"/>
-
-<!-- NOM -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=140&text=BREL%20MASSIMA&fontSize=60&fontColor=00FF41&fontAlignY=42&desc=CYBERSECURITY%20%2F%2F%20NETWORK%20ENGINEERING&descSize=15&descAlignY=72&descColor=ADFFB0&color=0:000000,50:001A00,100:000000" />
+<!-- MATRIX : pluie verte EN ARRIÈRE-PLAN du nom -->
+<img src="https://profilekit.vercel.app/api/matrix?text=BREL+MASSIMA&font=jetbrains-mono&width=1200&height=300" width="100%" alt="BREL MASSIMA"/>
 
 <!-- TERMINAL STATUS -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=%3E+WAKE+UP%2C+OPERATOR...;%3E+THE+MATRIX+HAS+YOU...;%3E+FOLLOW+THE+WHITE+RABBIT.;%3E+ACCESS+GRANTED_" />
@@ -22,8 +19,6 @@
 </div>
 
 <!-- ═══════════════ END HEADER ═══════════════ -->
-
----
 
 <div align="center">
 
@@ -49,11 +44,9 @@
 <img src="https://img.shields.io/badge/SECURITY-ACTIVE-39FF14?style=flat-square&labelColor=050510"/>
 <img src="https://img.shields.io/badge/SOC-LAB-FF00E5?style=flat-square&labelColor=050510"/>
 
-</div>
+<br/><br/>
 
-## `> SYSTEM_INTERFACE.exe`
-
-<div align="center">
+<img src="https://profilekit.vercel.app/api/matrix?text=SYSTEM_INTERFACE.exe&font=jetbrains-mono&width=1200&height=110" width="100%" alt="SYSTEM_INTERFACE.exe"/>
 
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="48%" alt="Animated cyber terminal"/>
 <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="48%" alt="Animated digital code"/>
@@ -80,11 +73,9 @@ SOC_STACK="TheHive + Cortex + YARA + CAPE"
 MISSION="PFE Internship — Cybersecurity"
 ```
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&text=%5B%20LIVE%20SOC%20SIMULATION%20%5D&fontSize=24&fontColor=00F0FF&color=0:050510,50:151044,100:4B0878&animation=fadeIn" width="100%"/>
+<img src="https://profilekit.vercel.app/api/matrix?text=LIVE+SOC+SIMULATION&font=jetbrains-mono&width=1200&height=110" width="100%" alt="LIVE SOC SIMULATION"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1300&pause=400&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=160&lines=%5BSOC%5D+Initializing+isolated+analysis+environment...;%5BCAPE%5D+Sample+submitted+to+sandbox...;%5BYARA%5D+Scanning+file+signatures...;%5BCORTEX%5D+Running+analysis+responders...;%5BTHEHIVE%5D+Creating+incident+case...;%5BSYSTEM%5D+Analysis+pipeline+ready." />
 
@@ -116,11 +107,9 @@ MISSION="PFE Internship — Cybersecurity"
 
 </div>
 
----
-
-## `> CRYPTO_GAME.exe`
-
 <div align="center">
+
+<img src="https://profilekit.vercel.app/api/matrix?text=CRYPTO_GAME.exe&font=jetbrains-mono&width=1200&height=110" width="100%" alt="CRYPTO_GAME.exe"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1500&pause=400&color=00FF41&center=true&vCenter=true&width=750&lines=%3E+WELCOME+TO+THE+CRYPTO+CHALLENGE;%3E+3+LEVELS.+1+FLAG.;%3E+ARE+YOU+READY%2C+NEO%3F" />
 
@@ -209,11 +198,9 @@ Bravo, opérateur ! Tu as pris la pilule rouge.
 
 </details>
 
----
-
-## `> CHOOSE_YOUR_PILL.exe`
-
 <div align="center">
+
+<img src="https://profilekit.vercel.app/api/matrix?text=CHOOSE_YOUR_PILL.exe&font=jetbrains-mono&width=1200&height=110" width="100%" alt="CHOOSE_YOUR_PILL.exe"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=700&lines=%3E+RED+PILL+%3D+THE+TRUTH;%3E+BLUE+PILL+%3D+THE+ILLUSION;%3E+CHOOSE+WISELY..." />
 
@@ -242,11 +229,9 @@ $ ./blue_pill.sh
 
 </details>
 
----
-
-## `> DECRYPT_THE_SECRET.exe`
-
 <div align="center">
+
+<img src="https://profilekit.vercel.app/api/matrix?text=DECRYPT_THE_SECRET.exe&font=jetbrains-mono&width=1200&height=110" width="100%" alt="DECRYPT_THE_SECRET.exe"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=900&pause=300&color=FF00E5&center=true&vCenter=true&width=700&lines=01000010+01010010+01000101+01001100;01001101+01000001+01010011+01010011+01001001+01001101+01000001;DECRYPTION+IN+PROGRESS...;HINT%3A+THE+OPERATOR%27S+IDENTITY." />
 
@@ -282,11 +267,9 @@ END OF TRANSMISSION.
 
 </details>
 
----
-
-## `> TECH_ARSENAL --list-all`
-
 <div align="center">
+
+<img src="https://profilekit.vercel.app/api/matrix?text=TECH_ARSENAL&font=jetbrains-mono&width=1200&height=110" width="100%" alt="TECH_ARSENAL"/>
 
 ### `LANGUAGES // CORE`
 
@@ -314,11 +297,9 @@ END OF TRANSMISSION.
 
 </div>
 
----
-
-## `> GITHUB_MAINFRAME`
-
 <div align="center">
+
+<img src="https://profilekit.vercel.app/api/matrix?text=GITHUB_MAINFRAME&font=jetbrains-mono&width=1200&height=110" width="100%" alt="GITHUB_MAINFRAME"/>
 
 <img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Brel7&show_icons=true&hide_border=true&bg_color=050510&title_color=00F0FF&icon_color=FF00E5&text_color=E0E6FF&ring_color=39FF14"/>
 
@@ -332,25 +313,15 @@ END OF TRANSMISSION.
 
 <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Brel7&bg_color=050510&color=00F0FF&line=8A2BE2&point=39FF14&area=true&area_color=35105B&hide_border=true"/>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated snake eating GitHub contribution squares"/>
 
 </div>
 
----
-
-## `> NEXT_MISSION`
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=130&text=MISSION%3A%20PFE&fontSize=46&fontColor=39FF14&fontAlignY=42&desc=CYBERSECURITY%20%2F%2F%20SOC%20%2F%2F%20SECURITY%20ENGINEERING&descSize=15&descAlignY=72&color=0:050510,50:101B32,100:32104C&animation=fadeIn" width="100%"/>
-
-<br/>
+<img src="https://profilekit.vercel.app/api/matrix?text=MISSION%3A+PFE&font=jetbrains-mono&width=1200&height=200" width="100%" alt="MISSION: PFE"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1600&pause=500&color=00F0FF&center=true&vCenter=true&width=750&lines=%3E+SEARCHING+FOR+A+5-MONTH+PFE...;%3E+TARGET%3A+CYBERSECURITY;%3E+INTERESTS%3A+SOC+%7C+DETECTION+%7C+INCIDENT+RESPONSE;%3E+READY+FOR+THE+NEXT+MISSION." />
 
@@ -366,13 +337,11 @@ END OF TRANSMISSION.
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=600&color=39FF14&center=true&vCenter=true&width=700&lines=CONNECTION+ESTABLISHED...;ENCRYPTION+ENABLED...;KEEP+BUILDING.+KEEP+INVESTIGATING.;END+OF+TRANSMISSION+%E2%96%88" />
 
-<img src="https://raw.githubusercontent.com/m-sarabi/rain-char/refs/heads/main/assets/rain-char.gif?raw=true" width="100%" alt="Matrix digital rain"/>
+<img src="https://profilekit.vercel.app/api/matrix?text=END+OF+TRANSMISSION&font=jetbrains-mono&width=1200&height=160" width="100%" alt="END OF TRANSMISSION"/>
 
 <sub>BREL MASSIMA // ENGINEERED WITH CURIOSITY // SECURED WITH INTENT</sub>
 
