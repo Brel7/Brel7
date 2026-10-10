@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=280&text=BREL%20MASSIMA&fontSize=68&fontColor=00FF41&fontAlignY=45&desc=CYBERSECURITY%20%2F%2F%20NETWORK%20ENGINEERING&descSize=15&descAlignY=65&descColor=ADFFB0&animation=twinkling&color=0:000000,25:001A00,50:002B00,75:001000,100:000000" />
 
 <!-- MATRIX DIGITAL RAIN -->
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="220" alt="Matrix digital rain"/>
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="140" alt="Matrix digital rain"/>
 
 <!-- TERMINAL STATUS -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=%3E+WAKE+UP%2C+OPERATOR...;%3E+THE+MATRIX+HAS+YOU...;%3E+FOLLOW+THE+WHITE+RABBIT.;%3E+ACCESS+GRANTED_" />
@@ -25,11 +25,13 @@
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="60" alt="Matrix rain"/>
+
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%" alt="Cyberpunk animated digital world"/>
 
-</div>
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="60" alt="Matrix rain"/>
 
----
+</div>
 
 <div align="center">
 
@@ -57,6 +59,8 @@
 
 </div>
 
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="50" alt="Matrix rain"/>
+
 ## `> SYSTEM_INTERFACE.exe`
 
 <div align="center">
@@ -66,8 +70,8 @@
 
 <br/>
 
-<!-- NEW HACKING IMAGE -->
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="98%" alt="Hacker typing code in the dark"/>
+<!-- HACKING IMAGE (reduced) -->
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="40%" alt="Hacker typing code in the dark"/>
 
 </div>
 
@@ -86,7 +90,7 @@ SOC_STACK="TheHive + Cortex + YARA + CAPE"
 MISSION="PFE Internship — Cybersecurity"
 ```
 
----
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="50" alt="Matrix rain"/>
 
 <div align="center">
 
@@ -122,13 +126,7 @@ MISSION="PFE Internship — Cybersecurity"
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="120" alt="Matrix digital rain"/>
-
-</div>
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="50" alt="Matrix rain"/>
 
 ## `> CRYPTO_GAME.exe`
 
@@ -140,21 +138,21 @@ MISSION="PFE Internship — Cybersecurity"
 
 **Règles :** décode les 3 messages ci-dessous. Chaque niveau est un classique de la cryptographie. Assemble les 3 réponses pour obtenir le **flag final**.
 
-### 🔰 Niveau 1 — Chiffre de César (décalage de 3)
+### <img src="https://img.shields.io/badge/LEVEL-01-00FF41?style=flat-square&logo=gnuprivacyguard&logoColor=00FF41&labelColor=000000"/> Chiffre de César (décalage de 3)
 
 ```text
 ZHOFRPH WR WKH PDWULA
 ```
 
 <details>
-<summary>💡 Indice</summary>
+<summary><img src="https://img.shields.io/badge/HINT-00F0FF?style=flat-square&logo=tryhackme&logoColor=00F0FF&labelColor=000000"/></summary>
 
 Jules César décalait chaque lettre de 3 positions dans l'alphabet. Pour décoder, décale chaque lettre de 3 positions vers la gauche (D → A).
 
 </details>
 
 <details>
-<summary>🔓 Solution niveau 1</summary>
+<summary><img src="https://img.shields.io/badge/SOLUTION-39FF14?style=flat-square&logo=letsencrypt&logoColor=39FF14&labelColor=000000"/></summary>
 
 ```text
 WELCOME TO THE MATRIX
@@ -162,21 +160,21 @@ WELCOME TO THE MATRIX
 
 </details>
 
-### 🔰 Niveau 2 — Base64
+### <img src="https://img.shields.io/badge/LEVEL-02-00FF41?style=flat-square&logo=gnuprivacyguard&logoColor=00FF41&labelColor=000000"/> Base64
 
 ```text
 V0hJVEUgUkFCQklU
 ```
 
 <details>
-<summary>💡 Indice</summary>
+<summary><img src="https://img.shields.io/badge/HINT-00F0FF?style=flat-square&logo=tryhackme&logoColor=00F0FF&labelColor=000000"/></summary>
 
 Cet encodage est omniprésent sur le web (emails, JWT, headers HTTP). Un terminal Linux fait ça en une commande : `echo "..." | base64 -d`
 
 </details>
 
 <details>
-<summary>🔓 Solution niveau 2</summary>
+<summary><img src="https://img.shields.io/badge/SOLUTION-39FF14?style=flat-square&logo=letsencrypt&logoColor=39FF14&labelColor=000000"/></summary>
 
 ```text
 WHITE RABBIT
@@ -184,21 +182,21 @@ WHITE RABBIT
 
 </details>
 
-### 🔰 Niveau 3 — Hexadécimal (ASCII)
+### <img src="https://img.shields.io/badge/LEVEL-03-00FF41?style=flat-square&logo=gnuprivacyguard&logoColor=00FF41&labelColor=000000"/> Hexadécimal (ASCII)
 
 ```text
 52 45 44 20 50 49 4C 4C
 ```
 
 <details>
-<summary>💡 Indice</summary>
+<summary><img src="https://img.shields.io/badge/HINT-00F0FF?style=flat-square&logo=tryhackme&logoColor=00F0FF&labelColor=000000"/></summary>
 
 Chaque octet hexadécimal correspond à un caractère ASCII. Exemple : `41` = A, `42` = B…
 
 </details>
 
 <details>
-<summary>🔓 Solution niveau 3</summary>
+<summary><img src="https://img.shields.io/badge/SOLUTION-39FF14?style=flat-square&logo=letsencrypt&logoColor=39FF14&labelColor=000000"/></summary>
 
 ```text
 RED PILL
@@ -206,10 +204,10 @@ RED PILL
 
 </details>
 
-### 🏁 Flag final
+### <img src="https://img.shields.io/badge/FINAL-FLAG-FF00E5?style=flat-square&logo=hackthebox&logoColor=FF00E5&labelColor=000000"/>
 
 <details>
-<summary>🚩 Valider le challenge</summary>
+<summary><img src="https://img.shields.io/badge/VALIDATE-CHALLENGE-FF00E5?style=for-the-badge&labelColor=000000"/></summary>
 
 Assemble les mots-clés des 3 niveaux :
 
@@ -217,13 +215,11 @@ Assemble les mots-clés des 3 niveaux :
 MATRIX{WHITE_RABBIT_RED_PILL}
 ```
 
-Bravo, opérateur ! Tu as pris la pilule rouge. 💊
-
-Envoie-moi ton temps de résolution par mail, ça m'intéresse. 😉
+Bravo, opérateur ! Tu as pris la pilule rouge.
 
 </details>
 
----
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="50" alt="Matrix rain"/>
 
 ## `> CHOOSE_YOUR_PILL.exe`
 
@@ -234,7 +230,7 @@ Envoie-moi ton temps de résolution par mail, ça m'intéresse. 😉
 </div>
 
 <details>
-<summary>🔴 Prendre la pilule rouge</summary>
+<summary><img src="https://img.shields.io/badge/RED%20PILL-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=000000"/></summary>
 
 ```text
 $ ./red_pill.sh
@@ -246,7 +242,7 @@ $ ./red_pill.sh
 </details>
 
 <details>
-<summary>🔵 Prendre la pilule bleue</summary>
+<summary><img src="https://img.shields.io/badge/BLUE%20PILL-0066FF?style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=000000"/></summary>
 
 ```text
 $ ./blue_pill.sh
@@ -256,7 +252,7 @@ $ ./blue_pill.sh
 
 </details>
 
----
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="50" alt="Matrix rain"/>
 
 ## `> DECRYPT_THE_SECRET.exe`
 
@@ -269,7 +265,7 @@ $ ./blue_pill.sh
 **Mini challenge :** Can you decode the binary above?
 
 <details>
-<summary>🔓 ACCESS GRANTED — Reveal the solution</summary>
+<summary><img src="https://img.shields.io/badge/ACCESS%20GRANTED-REVEAL-39FF14?style=flat-square&logo=letsencrypt&logoColor=39FF14&labelColor=000000"/></summary>
 
 The binary encodes ASCII characters.
 
@@ -280,7 +276,7 @@ Congratulations, operator. You have identified the system owner.
 </details>
 
 <details>
-<summary>🕵️ SECRET TERMINAL — Open classified message</summary>
+<summary><img src="https://img.shields.io/badge/SECRET%20TERMINAL-CLASSIFIED-FF00E5?style=flat-square&logo=gnometerminal&logoColor=FF00E5&labelColor=000000"/></summary>
 
 ```text
 $ sudo ./classified_message.sh
@@ -296,7 +292,7 @@ END OF TRANSMISSION.
 
 </details>
 
----
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="50" alt="Matrix rain"/>
 
 ## `> TECH_ARSENAL --list-all`
 
@@ -328,7 +324,7 @@ END OF TRANSMISSION.
 
 </div>
 
----
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="50" alt="Matrix rain"/>
 
 ## `> GITHUB_MAINFRAME`
 
@@ -348,15 +344,13 @@ END OF TRANSMISSION.
 
 </div>
 
----
-
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated snake eating GitHub contribution squares"/>
 
 </div>
 
----
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="50" alt="Matrix rain"/>
 
 ## `> NEXT_MISSION`
 
@@ -379,8 +373,6 @@ END OF TRANSMISSION.
 </a>
 
 </div>
-
----
 
 <div align="center">
 
